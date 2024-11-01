@@ -1,0 +1,15 @@
+C:\CSharpIntermedio\RefactorizarCod\RefactorizarCod\bin\Debug\net8.0\RefactorizarCod.exe
+C:\CSharpIntermedio\RefactorizarCod\RefactorizarCod\bin\Debug\net8.0\RefactorizarCod.deps.json
+C:\CSharpIntermedio\RefactorizarCod\RefactorizarCod\bin\Debug\net8.0\RefactorizarCod.runtimeconfig.json
+C:\CSharpIntermedio\RefactorizarCod\RefactorizarCod\bin\Debug\net8.0\RefactorizarCod.dll
+C:\CSharpIntermedio\RefactorizarCod\RefactorizarCod\bin\Debug\net8.0\RefactorizarCod.pdb
+C:\CSharpIntermedio\RefactorizarCod\RefactorizarCod\obj\Debug\net8.0\RefactorizarCod.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpIntermedio\RefactorizarCod\RefactorizarCod\obj\Debug\net8.0\RefactorizarCod.AssemblyInfoInputs.cache
+C:\CSharpIntermedio\RefactorizarCod\RefactorizarCod\obj\Debug\net8.0\RefactorizarCod.AssemblyInfo.cs
+C:\CSharpIntermedio\RefactorizarCod\RefactorizarCod\obj\Debug\net8.0\RefactorizarCod.csproj.CoreCompileInputs.cache
+C:\CSharpIntermedio\RefactorizarCod\RefactorizarCod\obj\Debug\net8.0\RefactorizarCod.sourcelink.json
+C:\CSharpIntermedio\RefactorizarCod\RefactorizarCod\obj\Debug\net8.0\RefactorizarCod.dll
+C:\CSharpIntermedio\RefactorizarCod\RefactorizarCod\obj\Debug\net8.0\refint\RefactorizarCod.dll
+C:\CSharpIntermedio\RefactorizarCod\RefactorizarCod\obj\Debug\net8.0\RefactorizarCod.pdb
+C:\CSharpIntermedio\RefactorizarCod\RefactorizarCod\obj\Debug\net8.0\RefactorizarCod.genruntimeconfig.cache
+C:\CSharpIntermedio\RefactorizarCod\RefactorizarCod\obj\Debug\net8.0\ref\RefactorizarCod.dll
