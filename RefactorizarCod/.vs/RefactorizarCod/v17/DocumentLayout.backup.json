@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\CSharpIntermedio\\RefactorizarCod\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4EF32671-09A2-45C6-BCC5-997559B9B895}|RefactorizarCod\\RefactorizarCod.csproj|c:\\csharpintermedio\\refactorizarcod\\refactorizarcod\\refactoringcode\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EF32671-09A2-45C6-BCC5-997559B9B895}|RefactorizarCod\\RefactorizarCod.csproj|solutionrelative:refactorizarcod\\refactoringcode\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EF32671-09A2-45C6-BCC5-997559B9B895}|RefactorizarCod\\RefactorizarCod.csproj|c:\\csharpintermedio\\refactorizarcod\\refactorizarcod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EF32671-09A2-45C6-BCC5-997559B9B895}|RefactorizarCod\\RefactorizarCod.csproj|solutionrelative:refactorizarcod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EF32671-09A2-45C6-BCC5-997559B9B895}|RefactorizarCod\\RefactorizarCod.csproj|c:\\csharpintermedio\\refactorizarcod\\refactorizarcod\\solid\\studentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF32671-09A2-45C6-BCC5-997559B9B895}|RefactorizarCod\\RefactorizarCod.csproj|solutionrelative:refactorizarcod\\solid\\studentclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\CSharpIntermedio\\RefactorizarCod\\RefactorizarCod\\Program.cs",
-              "RelativeDocumentMoniker": "RefactorizarCod\\Program.cs",
-              "ToolTip": "C:\\CSharpIntermedio\\RefactorizarCod\\RefactorizarCod\\Program.cs",
-              "RelativeToolTip": "RefactorizarCod\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T00:59:12.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Inventario.cs",
-              "DocumentMoniker": "C:\\CSharpIntermedio\\RefactorizarCod\\RefactorizarCod\\RefactoringCode\\Inventario.cs",
-              "RelativeDocumentMoniker": "RefactorizarCod\\RefactoringCode\\Inventario.cs",
-              "ToolTip": "C:\\CSharpIntermedio\\RefactorizarCod\\RefactorizarCod\\RefactoringCode\\Inventario.cs",
-              "RelativeToolTip": "RefactorizarCod\\RefactoringCode\\Inventario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "StudentClass.cs",
+              "DocumentMoniker": "C:\\CSharpIntermedio\\RefactorizarCod\\RefactorizarCod\\SOLID\\StudentClass.cs",
+              "RelativeDocumentMoniker": "RefactorizarCod\\SOLID\\StudentClass.cs",
+              "ToolTip": "C:\\CSharpIntermedio\\RefactorizarCod\\RefactorizarCod\\SOLID\\StudentClass.cs",
+              "RelativeToolTip": "RefactorizarCod\\SOLID\\StudentClass.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAqwHUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T01:23:49.435Z",
+              "WhenOpened": "2024-11-05T01:19:15.648Z",
               "EditorCaption": ""
             }
           ]

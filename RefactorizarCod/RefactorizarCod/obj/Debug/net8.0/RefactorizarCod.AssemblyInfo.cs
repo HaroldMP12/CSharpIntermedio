@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RefactorizarCod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bfd80a94df490119a8cc38fa4569fa7952e2e79")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69890100b674c0b05c0d8b8a7ddedbf42480e748")]
 [assembly: System.Reflection.AssemblyProductAttribute("RefactorizarCod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RefactorizarCod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
