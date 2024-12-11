@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2iMiPXegeDsdZlPFmvekBgOqto1mC9pRgNuTNs26zSA=",
+  "Source": "BoletosBusApp.Api",
+  "BasePath": "_content/BoletosBusApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
